@@ -134,6 +134,7 @@ LEXICON VerbInfl
 <pass><p3><pl><m>:یجے
 <pass><p3><pl><f>:یجیاں
 
+<pres><p1><sg><m>:ا
 <pres><p1><sg><m>:دا
 <pres><p1><sg><f>:دی
 <pres><p1><pl><m>:دے
@@ -1208,8 +1209,11 @@ LEXICON NounRoot
 دل[m,unmarked]
 رات[f,unmarked]
 گھیو[m,unmarked]
+<<<<<<< HEAD
 سلام[m,unmarked]
 سیب[m, unmakred]
+=======
+>>>>>>> origin/master
 سلام[I,m]
 صحت[I,m]
 صحت[f,unmarked]
@@ -3241,7 +3245,8 @@ LEXICON VerbRoot
 وین٘دا[unmarked]
 کرین٘دے[unmarked]
 کریندو[unmarked]
-
+لکھیئے[unmarked]
+پی
 
 ݙت
 گݙوں[unmarked]
@@ -3933,6 +3938,8 @@ LEXICON Auxilliary
 تھیوی<aux><m><sg>:تھیوی
 ہَیں<aux><m><pl>:ہَیں
 تھین٘دا<aux><m><pl>:تھین٘دا
+ہاں<aux><m><sg>:ہاں 
+ہاں<aux><f><sg>:ہاں 
 
 
 
